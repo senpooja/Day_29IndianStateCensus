@@ -1,0 +1,15 @@
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\bin\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.exe
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\bin\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.deps.json
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\bin\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.runtimeconfig.json
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\bin\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.dll
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\bin\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.pdb
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.csproj.AssemblyReference.cache
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.AssemblyInfoInputs.cache
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.AssemblyInfo.cs
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.csproj.CoreCompileInputs.cache
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.dll
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\refint\Day-29-UC1-LoadDataFromCSV.dll
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.pdb
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\Day-29-UC1-LoadDataFromCSV.genruntimeconfig.cache
+D:\C#program\IndianStateUC\Day-29-UC1-LoadDataFromCSV\Day-29-UC1-LoadDataFromCSV\obj\Debug\net6.0\ref\Day-29-UC1-LoadDataFromCSV.dll
